@@ -12,7 +12,76 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%; 
 }
 
-/* Voeg jouw css hieraan toe */
+
+.concurrentie {
+    font-family: 'Montserrat';
+    background-color: rgb(239, 239, 239);
+    margin-left: 280px;
+    margin-top: -50px;
+    margin-right: -50px;
+    margin-bottom: -200px;
+    padding-left: 100px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.concurrentie-titel {
+    margin-left: -340px;
+}
+
+
+h1{
+    color: rgb(182, 206, 85);
+    margin-bottom: 80px;
+    font-size: 34px;
+}
+
+h2{
+    font-size: 15px;
+}
+
+span {
+    margin: 2em;
+}
+
+.block {
+    margin-bottom: 100px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.buttons-intro {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+
+.button-1 {
+    background-color: rgb(54,54,54);
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 930px;
+    margin-bottom: 10px;
+}
+
+.button-2 {
+    background-color: rgb(54,54,54);
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 830px;
+    margin-bottom: 10px;
+}
+
+a {
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
