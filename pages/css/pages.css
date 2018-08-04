@@ -53,6 +53,7 @@ span {
 
 p {
     font-size: 15px;
+    padding-right: 100px;
 }
 
 .buttons-intro {
@@ -83,5 +84,4 @@ a {
     font-family: 'Montserrat';
     text-decoration: none;
     color: white;
-    text-align: center;
 }
