@@ -118,3 +118,10 @@ a:hover {
     background-color: white;
 }
 
+img {
+    width: 250px;
+    position: relative;
+    margin-top: 50px;
+    margin-right: 5px;
+}
+
