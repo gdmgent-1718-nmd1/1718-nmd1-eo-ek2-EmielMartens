@@ -157,7 +157,7 @@ img {
 }
 
 .buttons-style {
-    margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 40px;
 }
 
@@ -291,4 +291,29 @@ li a {
 
 .kleur4 {
     display: inline-block;
+}
+
+
+.Grotetitel1 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: rgb(182, 206, 85);
+    font-size: 34px;
+}
+
+.Grotetitel2 {
+    color: rgb(54, 54, 54);
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.Ondertitels {
+    color: rgb(54, 54, 54);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.Leestekst {
+    color: rgb(54, 54, 54);
 }
